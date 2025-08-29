@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Empodio Life Bank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@empodio-life.com"
+    email: "{cipher}655933f96a6dbca7d2cbe22911aa4300e58ad8712c8c79e6b7fc9b75a5d7e6f88a846a7b5154952978ab76fa43b327a0"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
